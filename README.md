@@ -24,8 +24,8 @@ what happens when you hide a child. We see that the component will unmount.
 ### Building a higher-order component (HOC)
 - Higher-order components are functions that accept a component, or multiple
 components, as arguments and then return a new, modified component.
-(images/loggerExample.png)
-- 
+![alt text](images/loggerExample.png "loggerExample")
+-
 
 ### Virtual DOM
 
